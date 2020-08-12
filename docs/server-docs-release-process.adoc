@@ -1,5 +1,5 @@
 = Server docs release process
-:page-layout: classic-docs
+ classic-docs
 :page-liquid:
 :icons: font
 :toc: macro
